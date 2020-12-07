@@ -28,9 +28,11 @@ twitter_username: jekyllrb
 github_username:  Ayers-Justin
 
 # Build settings
-theme: jekyll-theme-hydejack
+# theme: jekyll-theme-hydejack
+remote_theme: hydecorp/hydejack@v9.0.5
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.
