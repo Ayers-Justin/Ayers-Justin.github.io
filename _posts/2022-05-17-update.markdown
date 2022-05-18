@@ -8,12 +8,19 @@ categories: Justin Update
 Good afternoon to all my beautiful readers. This site is not dead. After taking a few courses in web design and web programming, I am ready to re-approach the design and build of this website. 
 
 After gaining a significant amount of free time recently, I intend to do the following:
+
 `1)` Create web application version of SWRC (yes, I am back in the game, and therefore must update the application. And what better way to do it than to build my portfolio?).
+
 `2)` Create a page on this website to run SWRC from the comfort of my website! No need to download a program that your computer might flag as malware because it wasn't developed by Microsoft!
+
 `3)` Create an about me page.
+
 `4)` Create an updateable resume page right here on my website!
+
 `5)` Create additional pages for other works I have done, such as my writing and creative designs.
+
 `6)` Post more common updates about current projects.
+
 
 This list is not ordered in the order in which I will do it, but the order in which it came to mind to be done.
 
