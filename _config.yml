@@ -28,7 +28,7 @@ twitter_username: Jayers866
 github_username:  Ayers-Justin
 
 # Build settings
-#theme: jekyll-theme-hydejack
+theme: jekyll-theme-hydejack
 remote_theme: hydecorp/hydejack@v9
 plugins:
   - jekyll-feed
