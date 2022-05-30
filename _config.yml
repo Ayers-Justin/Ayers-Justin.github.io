@@ -32,10 +32,14 @@ github_username:  Ayers-Justin
 remote_theme: hydecorp/hydejack@v9
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
+
+whitelist:
+  - jekyll-redirect-from
 
 menu:
   - title: Home
-    url: /home/
+    url: /
   - title: Projects Blog
     url: /projectsBlog/
   - title: Writing Blog

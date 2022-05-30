@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "SWRC and Osowiec"
 date:   2022-05-18 12:00:00 -0600
 categories: projectsblog

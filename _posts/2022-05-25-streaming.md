@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "Streaming?"
 date:   2022-05-25 10:00:00 -0600
 categories: projectsblog
