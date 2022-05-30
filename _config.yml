@@ -41,9 +41,9 @@ menu:
   - title: Home
     url: /
   - title: Projects Blog
-    url: /projectsBlog/
+    url: /projectsblog/
   - title: Writing Blog
-    url: /writingBlog/
+    url: /writingblog/
   - title: Resume
     url: /resume/
   - title: About Me
