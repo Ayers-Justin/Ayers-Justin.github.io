@@ -1,0 +1,9 @@
+---
+layout: default
+title: Justin's Writing
+---
+<h3>The posts in category "writing" are:</h3>
+
+{% for post in site.categories.writingblog %}
+<p><strong><a href="{{post.url}}">{{post.title}}</a></strong> {{post.date | date: "%-d %B %Y"}}</p>
+{% endfor %}

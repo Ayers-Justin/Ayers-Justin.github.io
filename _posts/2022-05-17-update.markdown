@@ -2,7 +2,7 @@
 layout: post
 title:  "News Update"
 date:   2022-05-16 17:00:00 -0600
-categories: Justin Update
+categories: projectsblog
 ---
 
 Good afternoon to all my beautiful readers. This site is not dead. After taking a few courses in web design and web programming, I am ready to re-approach the design and build of this website. 
