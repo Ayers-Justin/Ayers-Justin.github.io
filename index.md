@@ -6,7 +6,7 @@ title: Justin's Home
 
 
 <p align="center">
-  <img width="180" height="180" src="/assets/img/justin.jpg">
+  <img width="180" height="180" src="{{site.baseurl}}/assets/img/justin.jpg">
 </p>
 
 Welcome to my website. Here I showcase my game and software development projects as well as my writing. 
