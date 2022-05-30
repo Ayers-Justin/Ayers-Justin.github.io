@@ -33,21 +33,17 @@ remote_theme: hydecorp/hydejack@v9
 plugins:
   - jekyll-feed
 
-#menu:
-#-title: Home
-#url: /home/
-#-title: Site Update Blog
-#url: /siteBlog/
-#-title: Projects Blog
-#url: /projectsBlog/
-#-title: Writing Blog
-#url: /writingBlog/
-#-title: Projects Info
-#url: /projectsInfo/
-#-title: Resume
-#url: /resume/
-#-title: About Me
-#url: /about/
+menu:
+  - title: Home
+    url: /home/
+  - title: Projects Blog
+    url: /projectsBlog/
+  - title: Writing Blog
+    url: /writingBlog/
+  - title: Resume
+    url: /resume/
+  - title: About Me
+    url: /about/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
